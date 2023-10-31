@@ -1,14 +1,14 @@
 {
-    "name": "react-ebook",
-    "version": "2.0.3",
+    "name": "reactebook",
+    "version": "0.0.2",
     "author": "usamacoin8@gmail.com",
     "license": "MIT",
     "description": "Simple React.js wrapper for StPageFlip library, for creating realistic and beautiful page turning effect",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Usamaliaquat123/react-ebook.git"
+        "url": "https://github.com/Usamaliaquat123/reactebook.git"
     },
-    "homepage": "https://github.com/Usamaliaquat123/react-ebook",
+    "homepage": "https://github.com/Usamaliaquat123/reactebook",
     "main": "build/index.js",
     "module": "build/index.es.js",
     "files": [

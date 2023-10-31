@@ -25,12 +25,12 @@ Simple React.js wrapper for StPageFlip library, for creating realistic and beaut
 
 You can install the latest version using npm:
 
-`npm install react-ebook`
+`npm install reactebook`
 
 ### Basic Usage
 
 ```jsx
-import HTMLFlipBook from 'react-ebook';
+import HTMLFlipBook from 'reactebook';
 
 function MyBook(props) {
     return (
